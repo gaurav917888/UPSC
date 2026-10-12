@@ -1,0 +1,11 @@
+UPSC CSE COMMAND CENTRE — v1
+
+1. Open index.html in a current browser.
+2. Start from Home Dashboard or UPSC from Zero.
+3. Use GS-I / CSAT to browse topics and the official paper-source links.
+4. Use Mock Tests & Practice for the 20 clearly-labelled original questions.
+5. Export progress JSON if you want a backup of your local progress.
+
+Important: Official year-wise question distributions and a verified official question-level bank are not populated in this first release. No fictitious counts or PYQs have been inserted. See METHODOLOGY_AND_QA.md.
+
+Full setup and rebuild instructions: README.md

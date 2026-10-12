@@ -1,0 +1,122 @@
+[
+  {
+    "year": 2026,
+    "landingPage": "https://www.upsc.gov.in/examinations/Civil%20Services%20(Preliminary)%20Examination,%202026",
+    "gs1Url": "https://www.upsc.gov.in/sites/default/files/QP_CSP_2026_GENERAL_STUDIES_PAPER-I_25052026.pdf",
+    "csatUrl": "https://www.upsc.gov.in/sites/default/files/QP_CSP_2026_GENERAL_STUDIES_PAPER-II_25052026.pdf",
+    "paperStatus": "Official paper listings verified on UPSC portal",
+    "questionCountGS1": 100,
+    "questionCountCSAT": 80,
+    "classificationStatus": "Not yet question-by-question classified",
+    "answerKeyStatus": "Individually verify on UPSC answer-key portal; not matched in this build",
+    "dataQuality": "Paper source verified; topic counts not supplied"
+  },
+  {
+    "year": 2025,
+    "landingPage": "https://www.upsc.gov.in/examinations/previous-question-papers",
+    "gs1Url": "https://www.upsc.gov.in/sites/default/files/QP-CSP-25-GENERAL-STUDIES-PAPER-I-26052025.pdf",
+    "csatUrl": "https://www.upsc.gov.in/sites/default/files/QP-CSP-25-GENERAL-STUDIES-PAPER-II-26052025.pdf",
+    "paperStatus": "Official paper listings verified on UPSC portal",
+    "questionCountGS1": null,
+    "questionCountCSAT": null,
+    "classificationStatus": "Not yet question-by-question classified",
+    "answerKeyStatus": "Individually verify on UPSC answer-key portal; not matched in this build",
+    "dataQuality": "Paper source verified; topic counts not supplied"
+  },
+  {
+    "year": 2024,
+    "landingPage": "https://www.upsc.gov.in/examinations/previous-question-papers",
+    "gs1Url": "https://www.upsc.gov.in/sites/default/files/QP-CSP-24-GENERAL-STUDIES-PAPER-I-180624.pdf",
+    "csatUrl": "https://www.upsc.gov.in/sites/default/files/QP-CSP-24-GENERAL-STUDIES-PAPER-II-180624.pdf",
+    "paperStatus": "Official paper listings verified on UPSC portal",
+    "questionCountGS1": null,
+    "questionCountCSAT": null,
+    "classificationStatus": "Not yet question-by-question classified",
+    "answerKeyStatus": "Individually verify on UPSC answer-key portal; not matched in this build",
+    "dataQuality": "Paper source verified; topic counts not supplied"
+  },
+  {
+    "year": 2023,
+    "landingPage": "https://www.upsc.gov.in/examinations/previous-question-papers/archives",
+    "gs1Url": null,
+    "csatUrl": null,
+    "paperStatus": "Official paper listings verified on UPSC portal",
+    "questionCountGS1": null,
+    "questionCountCSAT": null,
+    "classificationStatus": "Not yet question-by-question classified",
+    "answerKeyStatus": "Individually verify on UPSC answer-key portal; not matched in this build",
+    "dataQuality": "Paper source verified; topic counts not supplied"
+  },
+  {
+    "year": 2022,
+    "landingPage": "https://www.upsc.gov.in/examinations/previous-question-papers/archives",
+    "gs1Url": null,
+    "csatUrl": null,
+    "paperStatus": "Official archive entry verified; use archive page to open the year and papers",
+    "questionCountGS1": null,
+    "questionCountCSAT": null,
+    "classificationStatus": "Not yet question-by-question classified",
+    "answerKeyStatus": "Individually verify on UPSC answer-key portal; not matched in this build",
+    "dataQuality": "Paper source verified; topic counts not supplied"
+  },
+  {
+    "year": 2021,
+    "landingPage": "https://www.upsc.gov.in/examinations/previous-question-papers/archives",
+    "gs1Url": null,
+    "csatUrl": null,
+    "paperStatus": "Official archive entry verified; use archive page to open the year and papers",
+    "questionCountGS1": null,
+    "questionCountCSAT": null,
+    "classificationStatus": "Not yet question-by-question classified",
+    "answerKeyStatus": "Individually verify on UPSC answer-key portal; not matched in this build",
+    "dataQuality": "Paper source verified; topic counts not supplied"
+  },
+  {
+    "year": 2020,
+    "landingPage": "https://www.upsc.gov.in/examinations/previous-question-papers/archives",
+    "gs1Url": null,
+    "csatUrl": null,
+    "paperStatus": "Official archive entry verified; use archive page to open the year and papers",
+    "questionCountGS1": null,
+    "questionCountCSAT": null,
+    "classificationStatus": "Not yet question-by-question classified",
+    "answerKeyStatus": "Individually verify on UPSC answer-key portal; not matched in this build",
+    "dataQuality": "Paper source verified; topic counts not supplied"
+  },
+  {
+    "year": 2019,
+    "landingPage": "https://www.upsc.gov.in/examinations/previous-question-papers/archives",
+    "gs1Url": null,
+    "csatUrl": null,
+    "paperStatus": "Official archive entry verified; use archive page to open the year and papers",
+    "questionCountGS1": null,
+    "questionCountCSAT": null,
+    "classificationStatus": "Not yet question-by-question classified",
+    "answerKeyStatus": "Individually verify on UPSC answer-key portal; not matched in this build",
+    "dataQuality": "Paper source verified; topic counts not supplied"
+  },
+  {
+    "year": 2018,
+    "landingPage": "https://www.upsc.gov.in/examinations/previous-question-papers/archives",
+    "gs1Url": null,
+    "csatUrl": null,
+    "paperStatus": "Official archive entry verified; use archive page to open the year and papers",
+    "questionCountGS1": null,
+    "questionCountCSAT": null,
+    "classificationStatus": "Not yet question-by-question classified",
+    "answerKeyStatus": "Individually verify on UPSC answer-key portal; not matched in this build",
+    "dataQuality": "Paper source verified; topic counts not supplied"
+  },
+  {
+    "year": 2017,
+    "landingPage": "https://www.upsc.gov.in/examinations/previous-question-papers/archives",
+    "gs1Url": null,
+    "csatUrl": null,
+    "paperStatus": "Official archive entry verified; use archive page to open the year and papers",
+    "questionCountGS1": null,
+    "questionCountCSAT": null,
+    "classificationStatus": "Not yet question-by-question classified",
+    "answerKeyStatus": "Individually verify on UPSC answer-key portal; not matched in this build",
+    "dataQuality": "Paper source verified; topic counts not supplied"
+  }
+]

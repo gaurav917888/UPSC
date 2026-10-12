@@ -1,0 +1,382 @@
+[
+  {
+    "id": "P-GS-001",
+    "paper": "GS-I",
+    "year": "Original",
+    "subject": "Polity",
+    "subtopic": "Federalism",
+    "difficulty": "Easy",
+    "type": "Concept",
+    "text": "Which of the following most clearly expresses a federal feature of a constitutional system?",
+    "options": [
+      "Powers are divided between different levels of government by the Constitution.",
+      "All local decisions are taken by one central authority.",
+      "Courts have no role in resolving constitutional disputes.",
+      "The executive can change the Constitution by ordinary order."
+    ],
+    "answer": 0,
+    "explanation": "A constitutional division of powers between levels of government is a core federal feature. The other options describe centralisation or disregard for constitutional procedure.",
+    "trap": "Do not confuse administrative decentralisation alone with constitutionally protected division of powers."
+  },
+  {
+    "id": "P-GS-002",
+    "paper": "GS-I",
+    "year": "Original",
+    "subject": "Environment",
+    "subtopic": "Ex-situ conservation",
+    "difficulty": "Easy",
+    "type": "Concept",
+    "text": "Which of the following is an example of ex-situ conservation?",
+    "options": [
+      "Protecting a species in its natural habitat",
+      "Maintaining a seed bank outside the natural habitat",
+      "Declaring a natural forest a protected area",
+      "Restricting disturbance in a wildlife corridor"
+    ],
+    "answer": 1,
+    "explanation": "Seed banks preserve biological material outside the organism’s natural habitat, so this is ex-situ conservation. The other choices are in-situ approaches.",
+    "trap": "The prefix ex-situ signals conservation away from the natural habitat."
+  },
+  {
+    "id": "P-GS-003",
+    "paper": "GS-I",
+    "year": "Original",
+    "subject": "Economy",
+    "subtopic": "Monetary policy",
+    "difficulty": "Easy",
+    "type": "Application",
+    "text": "Assuming other conditions remain unchanged, an increase in the policy repo rate is generally intended to:",
+    "options": [
+      "Make borrowing cheaper and stimulate demand immediately.",
+      "Increase the money multiplier by definition.",
+      "Raise borrowing costs and moderate demand-side inflationary pressure.",
+      "Directly set the retail price of every commodity."
+    ],
+    "answer": 2,
+    "explanation": "A higher policy rate generally raises the cost of funds in the banking system and can moderate credit demand and inflationary pressure, with lags and variable transmission.",
+    "trap": "The effect is indirect and not an automatic price control."
+  },
+  {
+    "id": "P-GS-004",
+    "paper": "GS-I",
+    "year": "Original",
+    "subject": "History",
+    "subtopic": "National Movement",
+    "difficulty": "Easy",
+    "type": "Chronology",
+    "text": "The Non-Cooperation Movement was withdrawn by Mahatma Gandhi in 1922 after which event?",
+    "options": [
+      "The Dandi March",
+      "The Chauri Chaura incident",
+      "The Partition of Bengal",
+      "The Lahore Congress session"
+    ],
+    "answer": 1,
+    "explanation": "The movement was withdrawn after the violent Chauri Chaura incident in February 1922.",
+    "trap": "Keep the major movement–event sequence in a short timeline."
+  },
+  {
+    "id": "P-GS-005",
+    "paper": "GS-I",
+    "year": "Original",
+    "subject": "Geography",
+    "subtopic": "Physical geography",
+    "difficulty": "Easy",
+    "type": "Concept",
+    "text": "The Coriolis effect on moving air is primarily associated with:",
+    "options": [
+      "Earth’s rotation",
+      "Earth’s distance from the Sun",
+      "The salinity of seawater",
+      "The Moon’s phases"
+    ],
+    "answer": 0,
+    "explanation": "Earth’s rotation produces the apparent deflection of moving air and water relative to Earth’s surface. The effect is zero at the equator and increases toward the poles.",
+    "trap": "Do not confuse rotation-related deflection with the cause of seasons."
+  },
+  {
+    "id": "P-GS-006",
+    "paper": "GS-I",
+    "year": "Original",
+    "subject": "Science",
+    "subtopic": "Biology",
+    "difficulty": "Easy",
+    "type": "Concept",
+    "text": "In most cellular organisms, DNA primarily serves to:",
+    "options": [
+      "Act as the main long-term store of genetic information",
+      "Supply all energy for cellular respiration",
+      "Form the cell membrane by itself",
+      "Replace all proteins in enzyme reactions"
+    ],
+    "answer": 0,
+    "explanation": "DNA stores hereditary information that helps direct biological function. It does not itself replace energy metabolism, membranes or proteins.",
+    "trap": "Distinguish information storage from expression and cellular energy production."
+  },
+  {
+    "id": "P-GS-007",
+    "paper": "GS-I",
+    "year": "Original",
+    "subject": "Polity",
+    "subtopic": "Parliament and Money Bills",
+    "difficulty": "Moderate",
+    "type": "Constitutional process",
+    "text": "Under the Indian constitutional scheme, a Money Bill can be introduced in which House of Parliament?",
+    "options": [
+      "Only the Lok Sabha",
+      "Only the Rajya Sabha",
+      "Either House without conditions",
+      "A joint sitting only"
+    ],
+    "answer": 0,
+    "explanation": "A Money Bill is introduced only in the Lok Sabha, subject to the constitutional procedure and certification rules.",
+    "trap": "Do not generalise the ordinary bill procedure to Money Bills."
+  },
+  {
+    "id": "P-GS-008",
+    "paper": "GS-I",
+    "year": "Original",
+    "subject": "Economy",
+    "subtopic": "National income",
+    "difficulty": "Moderate",
+    "type": "Concept",
+    "text": "Which statement best distinguishes real GDP from nominal GDP?",
+    "options": [
+      "Real GDP is measured only in foreign currency.",
+      "Real GDP adjusts for price changes, while nominal GDP uses current prices.",
+      "Nominal GDP excludes services.",
+      "Real GDP counts only government output."
+    ],
+    "answer": 1,
+    "explanation": "Nominal GDP values output at current prices; real GDP adjusts for changes in the price level using a chosen base/chain methodology.",
+    "trap": "Both measures cover production within the defined accounting boundary; the distinction is price adjustment."
+  },
+  {
+    "id": "P-GS-009",
+    "paper": "GS-I",
+    "year": "Original",
+    "subject": "Environment",
+    "subtopic": "Climate and ecosystems",
+    "difficulty": "Moderate",
+    "type": "Application",
+    "text": "Which statement about a biodiversity hotspot is most defensible?",
+    "options": [
+      "It is defined solely by having high annual rainfall.",
+      "It must contain no human settlements.",
+      "It combines high endemism with substantial habitat loss under the recognised criteria.",
+      "It is the same thing as a national park."
+    ],
+    "answer": 2,
+    "explanation": "The hotspot concept combines high levels of endemic plant species with significant loss of original habitat. It is not simply a rainfall class or protected-area label.",
+    "trap": "Distinguish ecological classification from legal protection designation."
+  },
+  {
+    "id": "P-GS-010",
+    "paper": "GS-I",
+    "year": "Original",
+    "subject": "Current affairs linkage",
+    "subtopic": "Source verification",
+    "difficulty": "Easy",
+    "type": "Study method",
+    "text": "When recording a statistic from a government report for exam notes, which practice is most useful?",
+    "options": [
+      "Record the number without a year to keep the note short.",
+      "Record publisher, publication/data year, unit and the official source link.",
+      "Replace the official statistic with a social-media estimate.",
+      "Assume every later article uses the same definition."
+    ],
+    "answer": 1,
+    "explanation": "A statistic is only interpretable when its source, period, unit and definition are visible; the official primary release lets you verify context.",
+    "trap": "This is an original study-skills question, not a past UPSC question."
+  },
+  {
+    "id": "P-CS-001",
+    "paper": "CSAT",
+    "year": "Original",
+    "subject": "Numeracy",
+    "subtopic": "Percentages",
+    "difficulty": "Easy",
+    "type": "Calculation",
+    "text": "What is 15% of 240?",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "42"
+    ],
+    "answer": 2,
+    "explanation": "10% of 240 is 24 and 5% is 12. Therefore 15% = 24 + 12 = 36.",
+    "trap": "Convert the percentage to a simple split rather than multiplying unnecessarily."
+  },
+  {
+    "id": "P-CS-002",
+    "paper": "CSAT",
+    "year": "Original",
+    "subject": "Numeracy",
+    "subtopic": "Ratio and proportion",
+    "difficulty": "Easy",
+    "type": "Calculation",
+    "text": "₹840 is divided in the ratio 3:4. What is the larger share?",
+    "options": [
+      "₹360",
+      "₹420",
+      "₹480",
+      "₹560"
+    ],
+    "answer": 2,
+    "explanation": "Total parts = 3 + 4 = 7. Each part = 840 ÷ 7 = 120. Larger share = 4 × 120 = ₹480.",
+    "trap": "Divide by the sum of ratio parts, not by the larger part."
+  },
+  {
+    "id": "P-CS-003",
+    "paper": "CSAT",
+    "year": "Original",
+    "subject": "Numeracy",
+    "subtopic": "Time, speed and distance",
+    "difficulty": "Easy",
+    "type": "Calculation",
+    "text": "A vehicle travels 150 km at a constant speed of 50 km/h. How long does the trip take?",
+    "options": [
+      "2 hours",
+      "2.5 hours",
+      "3 hours",
+      "3.5 hours"
+    ],
+    "answer": 2,
+    "explanation": "Time = distance ÷ speed = 150 ÷ 50 = 3 hours.",
+    "trap": "Keep units consistent and do not multiply speed by distance."
+  },
+  {
+    "id": "P-CS-004",
+    "paper": "CSAT",
+    "year": "Original",
+    "subject": "Numeracy",
+    "subtopic": "Time and work",
+    "difficulty": "Moderate",
+    "type": "Calculation",
+    "text": "A can finish a task in 12 days and B can finish the same task in 6 days. How many days will they take working together at constant rates?",
+    "options": [
+      "3 days",
+      "4 days",
+      "6 days",
+      "9 days"
+    ],
+    "answer": 1,
+    "explanation": "Combined daily work = 1/12 + 1/6 = 1/4. The total task therefore takes 4 days.",
+    "trap": "Add work rates, not completion times."
+  },
+  {
+    "id": "P-CS-005",
+    "paper": "CSAT",
+    "year": "Original",
+    "subject": "Logical reasoning",
+    "subtopic": "Series and patterns",
+    "difficulty": "Easy",
+    "type": "Pattern",
+    "text": "Find the next number: 3, 7, 15, 31, __.",
+    "options": [
+      "47",
+      "55",
+      "62",
+      "63"
+    ],
+    "answer": 3,
+    "explanation": "Each term is the previous term × 2 + 1: 3, 7, 15, 31, 63.",
+    "trap": "Confirm a consistent rule across all given transitions."
+  },
+  {
+    "id": "P-CS-006",
+    "paper": "CSAT",
+    "year": "Original",
+    "subject": "Logical reasoning",
+    "subtopic": "Deduction",
+    "difficulty": "Easy",
+    "type": "Deduction",
+    "text": "Statements: All roses are flowers. All flowers are plants. Which conclusion necessarily follows?",
+    "options": [
+      "All plants are roses.",
+      "All roses are plants.",
+      "No rose is a plant.",
+      "Some plants are not flowers."
+    ],
+    "answer": 1,
+    "explanation": "By transitivity, every rose is a flower and every flower is a plant; therefore every rose is a plant. No reverse inclusion follows.",
+    "trap": "Do not reverse an “all A are B” relation."
+  },
+  {
+    "id": "P-CS-007",
+    "paper": "CSAT",
+    "year": "Original",
+    "subject": "Comprehension",
+    "subtopic": "Central idea",
+    "difficulty": "Easy",
+    "type": "Passage",
+    "text": "Passage: A public programme is not successful merely because its budget is announced or its rules are published. Outcomes depend on implementation capacity, reliable data, coordination among agencies and whether intended beneficiaries can access the service. Evaluation should therefore compare promised outputs with actual delivery and results.\n\nWhich option best captures the central idea?",
+    "options": [
+      "A large budget is sufficient evidence of success.",
+      "Implementation and measured outcomes matter, not announcements alone.",
+      "Reliable data is unnecessary when the rules are clear.",
+      "Coordination should replace evaluation."
+    ],
+    "answer": 1,
+    "explanation": "The passage contrasts announcements with real delivery and outcomes, highlighting implementation capacity, data, coordination and evaluation.",
+    "trap": "Choose the option that captures the whole argument, not a single supporting detail."
+  },
+  {
+    "id": "P-CS-008",
+    "paper": "CSAT",
+    "year": "Original",
+    "subject": "Comprehension",
+    "subtopic": "Inference",
+    "difficulty": "Moderate",
+    "type": "Passage",
+    "text": "Passage: A public programme is not successful merely because its budget is announced or its rules are published. Outcomes depend on implementation capacity, reliable data, coordination among agencies and whether intended beneficiaries can access the service. Evaluation should therefore compare promised outputs with actual delivery and results.\n\nWhich inference is best supported?",
+    "options": [
+      "A programme with a small budget must fail.",
+      "Rules should never be published before implementation.",
+      "An evaluation should examine whether intended beneficiaries actually receive the service.",
+      "All implementation failures are caused by poor data."
+    ],
+    "answer": 2,
+    "explanation": "The passage explicitly says to consider beneficiary access and compare promised outputs with delivery and results. The other claims are stronger than the evidence supports.",
+    "trap": "Avoid absolute words and single-cause explanations that the passage does not support."
+  },
+  {
+    "id": "P-CS-009",
+    "paper": "CSAT",
+    "year": "Original",
+    "subject": "Data interpretation",
+    "subtopic": "Averages",
+    "difficulty": "Easy",
+    "type": "Calculation",
+    "text": "A candidate scores 42, 56 and 62 in three equal-weight tests. What is the average score?",
+    "options": [
+      "50",
+      "52",
+      "53⅓",
+      "54"
+    ],
+    "answer": 2,
+    "explanation": "Total = 42 + 56 + 62 = 160. Average = 160 ÷ 3 = 53⅓.",
+    "trap": "Add all observations before dividing by the number of observations."
+  },
+  {
+    "id": "P-CS-010",
+    "paper": "CSAT",
+    "year": "Original",
+    "subject": "Counting and probability",
+    "subtopic": "Probability",
+    "difficulty": "Moderate",
+    "type": "Calculation",
+    "text": "A fair six-sided die is rolled once. What is the probability of obtaining a number greater than 4?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "answer": 1,
+    "explanation": "Outcomes greater than 4 are 5 and 6: two favourable outcomes out of six equally likely outcomes, so 2/6 = 1/3.",
+    "trap": "Count favourable outcomes against the complete sample space."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "history",
+    "title": "History of India & National Movement",
+    "description": "Chronology, political/social change, ideas, institutions, personalities and the freedom struggle.",
+    "subtopics": [
+      "Ancient India",
+      "Medieval India",
+      "Modern India",
+      "Indian National Movement",
+      "Art and Culture",
+      "Historical chronology",
+      "Personalities and institutions"
+    ],
+    "priority": "High syllabus importance",
+    "approach": "Build timelines and cause–effect maps; classify PYQs by period and demand."
+  },
+  {
+    "id": "geography",
+    "title": "Indian & World Geography",
+    "description": "Physical processes, regions, climate, resources, population, maps and economic geography.",
+    "subtopics": [
+      "Physical Geography",
+      "Indian Geography",
+      "World Geography",
+      "Climate and weather",
+      "Rivers and drainage",
+      "Agriculture and resources",
+      "Mapping",
+      "Locations in the news"
+    ],
+    "priority": "High syllabus importance",
+    "approach": "Pair conceptual reading with atlas work and diagram-based recall."
+  },
+  {
+    "id": "polity",
+    "title": "Indian Polity & Constitution",
+    "description": "Constitutional provisions, institutions, rights, federal relations and legal developments.",
+    "subtopics": [
+      "Constitutional provisions",
+      "Fundamental Rights and Duties",
+      "Parliament",
+      "Executive",
+      "Judiciary",
+      "Federalism",
+      "Constitutional and statutory bodies",
+      "Local government",
+      "Governance and legal developments"
+    ],
+    "priority": "High conceptual dependency",
+    "approach": "Read provisions with institutional function, exceptions and current legal context."
+  },
+  {
+    "id": "governance",
+    "title": "Governance-related static concepts",
+    "description": "Institutional functioning, accountability, public services and governance concepts that overlap with polity.",
+    "subtopics": [
+      "Transparency and accountability",
+      "Public policy",
+      "Rights-based governance",
+      "Social sector delivery",
+      "Institutions and commissions"
+    ],
+    "priority": "Interdisciplinary",
+    "approach": "Use primary category once and add governance as a secondary tag when appropriate."
+  },
+  {
+    "id": "economy",
+    "title": "Economic & Social Development",
+    "description": "Macroeconomic mechanisms, financial system, public finance, agriculture, inclusion and indicators.",
+    "subtopics": [
+      "National income and growth",
+      "Inflation",
+      "Banking and monetary policy",
+      "Fiscal policy and taxation",
+      "External sector",
+      "Budget and public finance",
+      "Agriculture and inclusive development",
+      "Financial markets",
+      "Economic terminology",
+      "Poverty and demographics"
+    ],
+    "priority": "High conceptual dependency",
+    "approach": "Learn mechanisms and link indicators to official releases; avoid memorising figures without a year."
+  },
+  {
+    "id": "environment",
+    "title": "Environment & Ecology",
+    "description": "Ecology concepts, ecosystems, biodiversity, conservation instruments, pollution and climate change.",
+    "subtopics": [
+      "Ecology fundamentals",
+      "Ecosystems",
+      "Species and biodiversity",
+      "Protected areas",
+      "Environmental laws and institutions",
+      "Climate change",
+      "Pollution",
+      "Conventions and international initiatives"
+    ],
+    "priority": "High integration with current affairs",
+    "approach": "Anchor facts in core concepts, maps, species status and current official materials."
+  },
+  {
+    "id": "science",
+    "title": "General Science",
+    "description": "Foundational scientific principles and practical applications in health, biology, chemistry and physics.",
+    "subtopics": [
+      "Biology and health science",
+      "Basic physics",
+      "Chemistry in daily life",
+      "Diseases and public health",
+      "Scientific principles"
+    ],
+    "priority": "Syllabus and PYQ-led",
+    "approach": "Prioritise explainable concepts and applied uses instead of encyclopaedic detail."
+  },
+  {
+    "id": "technology",
+    "title": "Science & Technology",
+    "description": "Emerging and applied technologies, scientific institutions and developments in public use.",
+    "subtopics": [
+      "Space",
+      "Defence technology",
+      "Biotechnology",
+      "Digital technology",
+      "Emerging technologies",
+      "Applications and current developments"
+    ],
+    "priority": "Current-affairs linked",
+    "approach": "Understand what the technology does, its principle, application, limits and associated institution."
+  },
+  {
+    "id": "current",
+    "title": "Current Affairs & Contemporary Developments",
+    "description": "Current issues connected with the notified syllabus; cross-tags other subjects rather than replacing them.",
+    "subtopics": [
+      "Government policies",
+      "International institutions and developments",
+      "Reports and indices",
+      "Environment in the news",
+      "Science in the news",
+      "Economy in the news",
+      "Legal/constitutional developments"
+    ],
+    "priority": "Cross-cutting tag",
+    "approach": "Tag the subject underneath a current-affairs link; do not count it as an additional primary topic."
+  },
+  {
+    "id": "interdisciplinary",
+    "title": "Interdisciplinary / Mixed",
+    "description": "Questions that genuinely require two or more domains and cannot be faithfully represented by one main category.",
+    "subtopics": [
+      "Economy–environment",
+      "Geography–environment",
+      "Science–policy",
+      "History–culture",
+      "Polity–governance"
+    ],
+    "priority": "Use sparingly",
+    "approach": "Select one primary label plus secondary tags; only use Mixed if one primary label would be misleading."
+  }
+]
