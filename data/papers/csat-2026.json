@@ -1,0 +1,23 @@
+{
+  "year": 2026,
+  "exam": "Civil Services (Preliminary) Examination",
+  "paper": "General Studies Paper II (CSAT)",
+  "duration_minutes": 120,
+  "total_marks": 200,
+  "question_marks": 2.5,
+  "negative_marking_fraction": 0.3333333333333333,
+  "qualifying_percent": 33,
+  "expected_question_count": 80,
+  "source_url": "https://www.upsc.gov.in/sites/default/files/QP_CSP_2026_GENERAL_STUDIES_PAPER-II_25052026.pdf",
+  "source_page_url": "https://www.upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202026",
+  "source_note": "Official examination page lists the General Studies Paper II question paper uploaded on 25 May 2026.",
+  "structured_data_status": "not_imported",
+  "questions": [],
+  "validation": {
+    "questions_found": 0,
+    "expected_questions": 80,
+    "answer_key_coverage": 0,
+    "solution_coverage": 0,
+    "complete": false
+  }
+}

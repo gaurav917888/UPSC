@@ -1,0 +1,193 @@
+{
+  "qa_type": "synthetic-browser-smoke-test",
+  "note": "All question records used in these UI checks were synthetic in a temporary isolated browser session and are not included in the delivered app. This is not official-PYQ data validation.",
+  "passed": 37,
+  "total": 37,
+  "checks": [
+    {
+      "test": "Dashboard renders",
+      "passed": true,
+      "detail": "UPSC CSAT Command Centre"
+    },
+    {
+      "test": "Desktop sidebar layout",
+      "passed": true,
+      "detail": "{'x': 248, 'width': 1192}"
+    },
+    {
+      "test": "Settings navigation",
+      "passed": true,
+      "detail": "Settings"
+    },
+    {
+      "test": "Dark theme applies",
+      "passed": true,
+      "detail": "dark"
+    },
+    {
+      "test": "Theme persisted",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Synthetic fixture accepted only in temporary browser session",
+      "passed": true,
+      "detail": "Start full CSAT mock"
+    },
+    {
+      "test": "Exam starts and timer appears",
+      "passed": true,
+      "detail": "CSAT 2026 \u00b7 Full Paper \u00b7 Exam mode\nQuestion 1 / 80"
+    },
+    {
+      "test": "Timer ticks",
+      "passed": true,
+      "detail": "2h 00m -> 1h 59m"
+    },
+    {
+      "test": "Selecting an answer persists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Mark-for-review persists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Next navigation works",
+      "passed": true,
+      "detail": "CSAT 2026 \u00b7 Full Paper \u00b7 Exam mode\nQuestion 2 / 80"
+    },
+    {
+      "test": "Previous navigation and selected answer persist",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Bookmark persists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Submit confirmation opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Results page shown",
+      "passed": true,
+      "detail": "Test Results"
+    },
+    {
+      "test": "Scoring correct and incorrect responses",
+      "passed": true,
+      "detail": "1.6666666666666667"
+    },
+    {
+      "test": "Attempt counts retained",
+      "passed": true,
+      "detail": "{'correct': 1, 'incorrect': 1, 'unattempted': 78}"
+    },
+    {
+      "test": "Wrong answer added to mistake book",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Question review page opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Personal note saved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Global search results render",
+      "passed": true,
+      "detail": "Search Results"
+    },
+    {
+      "test": "Mobile dashboard no horizontal overflow",
+      "passed": true,
+      "detail": "{'inner': 375, 'scroll': 375}"
+    },
+    {
+      "test": "Mobile navigation drawer opens",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Mobile library no horizontal overflow",
+      "passed": true,
+      "detail": "{'inner': 375, 'scroll': 375}"
+    },
+    {
+      "test": "No horizontal overflow at 320/375/414/768/1024/1440px",
+      "passed": true,
+      "detail": "[{'width': 320, 'inner': 320, 'scroll': 320}, {'width': 375, 'inner': 375, 'scroll': 375}, {'width': 414, 'inner': 414, 'scroll': 414}, {'width': 768, 'inner': 768, 'scroll': 768}, {'width': 1024, 'inner': 1024, 'scroll': 1024}, {'width': 1440, 'inner': 1440, 'scroll': 1440}]"
+    },
+    {
+      "test": "Importer rejects duplicate question numbering",
+      "passed": true,
+      "detail": "{'accepted': False, 'error': 'Duplicate question number 1 in 2025.'}"
+    },
+    {
+      "test": "Importer rejects duplicate IDs across years",
+      "passed": true,
+      "detail": "{'accepted': False, 'error': 'Duplicate question id QA-1 across papers. Prefix IDs with the year, such as 2023-Q1.'}"
+    },
+    {
+      "test": "Incomplete paper remains unavailable",
+      "passed": true,
+      "detail": "Not imported"
+    },
+    {
+      "test": "System theme setting supported",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Font scaling applies and persists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Compact spacing applies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "High contrast setting applies",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Backup export/import round-trip",
+      "passed": true,
+      "detail": "{'app': 'CSAT Command Centre', 'theme': 'system', 'notes': 1, 'bookmarks': 1, 'attempts': 1}"
+    },
+    {
+      "test": "Unfinished test appears on dashboard",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Resume restores current question",
+      "passed": true,
+      "detail": "CSAT 2026 \u00b7 Full Paper \u00b7 Exam mode\nQuestion 3 / 80"
+    },
+    {
+      "test": "Timer reaching zero auto-submits",
+      "passed": true,
+      "detail": "Test Results"
+    },
+    {
+      "test": "No uncaught browser errors",
+      "passed": true,
+      "detail": "[]"
+    }
+  ]
+}

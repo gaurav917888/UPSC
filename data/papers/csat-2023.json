@@ -1,0 +1,23 @@
+{
+  "year": 2023,
+  "exam": "Civil Services (Preliminary) Examination",
+  "paper": "General Studies Paper II (CSAT)",
+  "duration_minutes": 120,
+  "total_marks": 200,
+  "question_marks": 2.5,
+  "negative_marking_fraction": 0.3333333333333333,
+  "qualifying_percent": 33,
+  "expected_question_count": 80,
+  "source_url": "https://www.upsc.gov.in/sites/default/files/QP_CS_Pre_Exam_2023_GENERAL_STUDIES_PAPER_II_280523.pdf",
+  "source_page_url": "https://www.upsc.gov.in/examinations/previous-question-papers/archives",
+  "source_note": "Official archive lists Civil Services (Preliminary) Examination, 2023 — General Studies Paper II.",
+  "structured_data_status": "not_imported",
+  "questions": [],
+  "validation": {
+    "questions_found": 0,
+    "expected_questions": 80,
+    "answer_key_coverage": 0,
+    "solution_coverage": 0,
+    "complete": false
+  }
+}

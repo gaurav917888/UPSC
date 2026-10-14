@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/csat-question.schema.json",
+  "title": "CSAT Question Record",
+  "type": "object",
+  "required": ["year", "question_number", "question_text", "options", "correct_option", "explanation"],
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "year": {"type": "integer", "enum": [2021, 2022, 2023, 2024, 2025, 2026]},
+    "question_number": {"type": "integer", "minimum": 1, "maximum": 80},
+    "section": {"type": "string"},
+    "topic": {"type": "string"},
+    "subtopic": {"type": "string"},
+    "question_text": {"type": "string", "minLength": 1},
+    "passage_id": {"type": ["string", "null"]},
+    "passage_text": {"type": "string"},
+    "options": {"type": "array", "minItems": 4, "maxItems": 4, "items": {"type": "object", "required": ["id", "text"], "properties": {"id": {"enum": ["A", "B", "C", "D"]}, "text": {"type": "string", "minLength": 1}}, "additionalProperties": true}},
+    "correct_option": {"enum": ["A", "B", "C", "D"]},
+    "correct_answer": {"type": "string"},
+    "explanation": {"type": "string", "minLength": 1},
+    "difficulty": {"enum": ["Easy", "Moderate", "Difficult"]},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "source_url": {"type": "string", "format": "uri"},
+    "source_page": {"type": ["integer", "null"], "minimum": 1}
+  },
+  "additionalProperties": true
+}

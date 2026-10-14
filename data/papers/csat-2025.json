@@ -1,0 +1,23 @@
+{
+  "year": 2025,
+  "exam": "Civil Services (Preliminary) Examination",
+  "paper": "General Studies Paper II (CSAT)",
+  "duration_minutes": 120,
+  "total_marks": 200,
+  "question_marks": 2.5,
+  "negative_marking_fraction": 0.3333333333333333,
+  "qualifying_percent": 33,
+  "expected_question_count": 80,
+  "source_url": "https://www.upsc.gov.in/sites/default/files/QP-CSP-25-GENERAL-STUDIES-PAPER-II-26052025.pdf",
+  "source_page_url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+  "source_note": "Official previous question papers page lists Civil Services (Preliminary) Examination, 2025 — General Studies Paper II.",
+  "structured_data_status": "not_imported",
+  "questions": [],
+  "validation": {
+    "questions_found": 0,
+    "expected_questions": 80,
+    "answer_key_coverage": 0,
+    "solution_coverage": 0,
+    "complete": false
+  }
+}
